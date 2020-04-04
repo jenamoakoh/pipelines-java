@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jenamoakoh0517/SpecialProject/_apis/build/status/jenamoakoh.pipelines-java?branchName=master)](https://dev.azure.com/jenamoakoh0517/SpecialProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
